@@ -46,6 +46,11 @@ button:hover{
 .button_yes{
     background: #0dc972;
 }
+.button_yes:hover{
+    background: #099855;
+
+    
+}
 
 .heart {
     position: absolute;
