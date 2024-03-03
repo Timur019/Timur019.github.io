@@ -20,6 +20,7 @@ h1{
 } 
 img{
     width: 100%;
+    padding-bottom: 20px;
     max-width: 300px;
     display: block;
     margin: 0 auto;
@@ -32,7 +33,7 @@ img{
     font-size: 28px;
 }
 button{
-    padding: 1em 1.5em;
+    padding: 1em 1.7em;
     font-size: 1em;
     background: #a2585f;
     color: #fff;

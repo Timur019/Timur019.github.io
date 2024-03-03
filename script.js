@@ -15,7 +15,7 @@ buttonYes.addEventListener('click', function () {
 function doYesMore (){
     buttonYesFontSize += .3;
     buttonYes.style.fontSize = buttonYesFontSize + 'em';
-    buttonNoFontSize -= .2;
+    buttonNoFontSize -= .25;
     buttonNo.style.fontSize = buttonNoFontSize + 'em';
 }
 
